@@ -1,6 +1,6 @@
 SCHEMA.name = "KaiserreichRP"
 SCHEMA.introName = "KaiserreichRP"
-SCHEMA.author = "Barata"
+SCHEMA.author = "Barata & Adaster"
 SCHEMA.desc = "Kaiser Reich Roleplay."
 
 function SCHEMA:PlayerConnect(client, ip)
