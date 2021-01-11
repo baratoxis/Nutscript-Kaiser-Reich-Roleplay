@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"KaiserreichRP"
+	"author"	"Barata"
+	"menusystem"	"1"
+}
